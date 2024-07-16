@@ -1,0 +1,307 @@
+.header1{
+	position:absolute;
+	background-color:gray;
+	width:1840px;
+	height:30px;
+	text-align:center;
+	color:white;
+	font-family:Verdana;
+	font-size:20px;
+}
+.header2{
+	position:absolute;
+	background-color:black;
+	width:1840px;
+	height:30px;
+	text-align:center;
+	color:white;
+	font-family:Verdana;
+	font-size:20px;
+	font-style:italic;
+	top:35px;
+}
+.header3{
+	position:absolute;
+	left:730px;
+	font-family:Helvetica;
+	font-size:50px;
+	top:80px;
+	letter-spacing:10px;
+	color:black;
+}
+.header4{
+	position:absolute;
+	left:730px;
+	font-family:Helvetica;
+	font-size:15px;
+	top:140px;
+	letter-spacing:29px;
+}
+.cover{
+	position:absolute;
+	top:100px;
+	clip:rect(100px 1840px 1100px 0px);
+}
+.sneakers{
+	position:absolute;
+	font-family:Helvetica;
+	top:180px;
+	left:500px;
+	color:black;
+}
+.flatsNloafer{
+	position:absolute;
+	font-family:Helvetica;
+	top:180px;
+	left:850px;
+	color:black;
+	
+}
+.geli{
+	position:absolute;
+	font-family:Helvetica;
+	top:180px;
+	left:1300px;
+	color:black;
+}
+.sneaker1{
+	position:absolute;
+	width:300px;
+	height:200px;
+	top:200px;
+	left:300px;
+}
+.sneakerName1{
+	position:absolute;
+	top:450px;
+	left:400px;
+	font-family:Helvetica;
+}
+.sneakerPrice1{
+	position:absolute;
+	top:470px;
+	left:405px;
+	font-family:Helvetica;
+}
+
+.sneaker2{
+	position:absolute;
+	width:300px;
+	height:200px;
+	top:200px;
+	left:800px;
+}
+.sneakerName2{
+	position:absolute;
+	top:450px;
+	left:850px;
+	font-family:Helvetica;
+}
+.sneakerPrice2{
+	position:absolute;
+	top:470px;
+	left:895px;
+	font-family:Helvetica;
+}
+
+.sneaker3{
+	position:absolute;
+	width:300px;
+	height:200px;
+	top:200px;
+	left:1300px;
+}
+.sneakerName3{
+	position:absolute;
+	top:450px;
+	left:1400px;
+	font-family:Helvetica;
+}
+.sneakerPrice3{
+	position:absolute;
+	top:470px;
+	left:1415px;
+	font-family:Helvetica;
+}
+
+.sneaker4{
+	position:absolute;
+	width:300px;
+	height:200px;
+	top:600px;
+	left:300px;
+}
+.sneakerName4{
+	position:absolute;
+	top:830px;
+	left:400px;
+	font-family:Helvetica;
+}
+.sneakerPrice4{
+	position:absolute;
+	top:850px;
+	left:450px;
+	font-family:Helvetica;
+}
+
+.sneaker5{
+	position:absolute;
+	width:300px;
+	height:200px;
+	top:600px;
+	left:800px;
+}
+.sneakerName5{
+	position:absolute;
+	top:830px;
+	left:850px;
+	font-family:Helvetica;
+}
+.sneakerPrice5{
+	position:absolute;
+	top:850px;
+	left:895px;
+	font-family:Helvetica;
+}
+
+.sneaker6{
+	position:absolute;
+	width:300px;
+	height:200px;
+	top:600px;
+	left:1300px;
+}
+.sneakerName6{
+	position:absolute;
+	top:830px;
+	left:1350px;
+	font-family:Helvetica;
+}
+.sneakerPrice6{
+	position:absolute;
+	top:850px;
+	left:1380px;
+	font-family:Helvetica;
+}
+.itim{
+	position:absolute;
+	top:0px;
+	left:0px;
+	background-color:black;
+	width:1850px;
+	height:930px;
+	opacity:0.6;
+}
+.sneaker1Zoom{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:300px;
+	left:400px;
+}
+.description-sneaker1{
+	position:absolute;
+	top:400px;
+	left:1000px;
+	font-family:Helvetica;
+	color:white;
+}
+.sneaker2Zoom{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:300px;
+	left:400px;
+}
+.description-sneaker2{
+	position:absolute;
+	top:400px;
+	left:1000px;
+	font-family:Helvetica;
+	color:white;
+	width:500px;
+}
+.sneaker3Zoom{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:300px;
+	left:400px;
+}
+.description-sneaker3{
+	position:absolute;
+	top:400px;
+	left:1000px;
+	font-family:Helvetica;
+	color:white;
+	width:500px;
+}
+.sneaker4Zoom{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:300px;
+	left:400px;
+}
+.description-sneaker4{
+	position:absolute;
+	top:400px;
+	left:1000px;
+	font-family:Helvetica;
+	color:white;
+	width:500px;
+}
+.sneaker5Zoom{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:300px;
+	left:400px;
+}
+.description-sneaker5{
+	position:absolute;
+	top:400px;
+	left:1000px;
+	font-family:Helvetica;
+	color:white;
+	width:500px;
+}
+.sneaker6Zoom{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:300px;
+	left:400px;
+}
+.description-sneaker6{
+	position:absolute;
+	top:400px;
+	left:1000px;
+	font-family:Helvetica;
+	color:white;
+	width:500px;
+}
+.close{
+	position:absolute;
+	font-family:Helvetica;
+	color:white;
+	font-size:30px;
+	left:1700px;
+	top:100px;
+}
+.nextSlide{
+	position:absolute;
+	font-family:Helvetica;
+	color:white;
+	font-size:70px;
+	left:1600px;
+	top:490px;
+}
+.prevSlide{
+	position:absolute;
+	font-family:Helvetica;
+	color:white;
+	font-size:70px;
+	left:100px;
+	top:490px;
+}
